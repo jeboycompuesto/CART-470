@@ -9,3 +9,6 @@ An individual record of my research, contributions, decisions, and reflections t
 
 - [Week 3 — From research and meetings to a prototype direction](journal/week-03/README.md) · September 30, 2026
 
+## Assignments
+
+- [Living Learning Contract (PDF)](assignments/living-learning-contract/Living-Learning-Contract.pdf)

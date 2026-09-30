@@ -44,5 +44,3 @@ My next focus is turning the research and meeting ideas into something we can te
 - [IAMF research card](https://app.fizzy.do/6280766/cards/30) and [AOMedia IAMF reference](https://aomedia.org/specifications/iamf/).
 - [Nerfstudio research card](https://app.fizzy.do/6280766/cards/31) and [Nerfstudio documentation](https://docs.nerf.studio/).
 - [Textile-surface research card](https://app.fizzy.do/6280766/cards/34).
-
-*Writing support: AI assistance was used to organize and phrase this entry from my research records and personal input.*

@@ -7,6 +7,8 @@ An individual record of my research, contributions, decisions, and reflections t
 
 ## Weekly entries
 
+- [Week 7 — Connecting accessibility research to the prototype](journal/week-07/README.md) · November 4, 2026
+
 - [Week 6 — Spatial audio research and accessible interaction](journal/week-06/README.md) · October 28, 2026
 
 - [Week 5 — Connecting design planning to the prototype](journal/week-05/README.md) · October 21, 2026
